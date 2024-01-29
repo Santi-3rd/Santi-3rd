@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello👋 I'm Guillermo Santiago
+
+- 🚀I've been coding for over a year in Python and Javascript and recently graduated from [Code Platoon](https://www.codeplatoon.org/) 
+- 📝I'm currently delving deeper into Javascript with [The Odin Project](https://www.theodinproject.com/) and working on personal projects.
 
 <!--
 **Santi-3rd/Santi-3rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
